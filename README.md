@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tahir Mahmudazade!
 
-<!--
-**tahirmahmudzade/tahirmahmudzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Developer by day** | 🐱 **Cat owner 24/7** | ♟️ **Chess enthusiast** | 📸 **Part-time photographer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 🛠 Currently working with **Nuxt**, **TypeScript**, **Java**, **Google Cloud**, and **NestJS**.  
+- ♟️ Strategy lover (on and off the chessboard).  
+- 📸 Capturing moments when I'm not coding.  
+- 🐱 Full-time servant to my cat (they demand it).
+
+---
+
+### 📊 Fun GitHub Stats  
+> *I know it's not *that* impressive, but hey, I'm just getting started!*
+
+[![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirmahmudzade&show_icons=true&theme=radical)](https://github.com/tahirmahmudzade)
+
+---
+
+Let's connect and build something amazing together! 🚀
